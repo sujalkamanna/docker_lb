@@ -1,1 +1,1 @@
-# docker_lb
+👉 docker_lb is a Kubernetes-deployed microservices voting application based on Docker’s Example Voting App, demonstrating containerized frontends, Redis queue, a worker, and PostgreSQL backend.
